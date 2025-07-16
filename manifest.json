@@ -10,12 +10,12 @@
   "description": "Get latest Sarkari updates, results, job alerts, and more.",
   "icons": [
     {
-      "src": "https://yourdomain.com/icons/icon-192.png",
+      "src": "https://i.imgur.com/YOUR_ICON.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://yourdomain.com/icons/icon-512.png",
+      "src": "https://i.imgur.com/YOUR_ICON.png",
       "sizes": "512x512",
       "type": "image/png"
     }
